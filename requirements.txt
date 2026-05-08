@@ -1,0 +1,6 @@
+openai-whisper
+yt-dlp
+sentence-transformers
+scikit-learn
+numpy
+stop-words
